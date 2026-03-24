@@ -1,1 +1,31 @@
-# fiap-cpad-cp1-FIAPday
+# FIAPday	
+
+Gerenciar a rotina acadêmica na FIAP é um desafio constante. Entre CPs, Sprints, GSs e o Challenge, o volume de entregas pode sobrecarregar o estudante. Por isso, desenvolvemos uma plataforma de organização exclusiva para o ecossistema FIAP. Centralizamos anotações de aula, cronogramas de provas e prazos de projetos em um só lugar, transformando o caos das entregas em uma jornada acadêmica clara, produtiva e sem estresse.
+
+Escolhemos a operação de organização da faculdade. A razão central da escolha foi a necessidade de combater a sobrecarga mental dos estudantes. Como o ecossistema da faculdade envolve muitas frentes simultâneas, como os Checkpoints (CPs), as Sprints, as Global Solutions (GSs) e o Challenge, a mente do aluno acaba ficando muito confusa e sobrecarregada
+
+Organização, Foco e praticidade
+
+# Integrantes
+Mateus Patricio Pereira
+Raphael Talarico
+Leonardo Luster Gomes
+
+# Passo a Passo
+Primeiro o usuario ira logar om seu RM e senha, após isso ira abrir a pagina do mês que o Usuario está, na pagina da agenda é só clicar em qualquer dia e escrever o que quiser
+Requisitos: Expo GO, Node.js e qualquer aplicativo para codar (de preferencia VS code)
+# Demonstração
+<img width="150" height="500" alt="image" src="https://github.com/user-attachments/assets/20b358ac-b7bc-4580-adb1-83bbd7228423" /><img width="150" height="500" alt="image" src="https://github.com/user-attachments/assets/477d633a-7fb9-4319-8b3f-670eb6e5d27b" /><img width="150" height="500" alt="image" src="https://github.com/user-attachments/assets/79890986-ada9-47d7-b129-648b8a463b7f" /><img width="150" height="500" alt="image" src="https://github.com/user-attachments/assets/f5a8ffb3-65d0-4e26-b6c7-2b31f9905c85" /><img width="150" height="2900" alt="image" src="https://github.com/user-attachments/assets/d60cca6a-f0fd-4234-8fbf-43df24086d38" />
+
+
+# Decisões Tecnicas
+
+O projeto foi separado em blocos para melhor orgaanização e mais praticidade para possiveis mudanças no futuro, na pagina de login temos a pagina index que é o esqueleto da pagina, no style que é toda a cara da pagina, cores estilo, posição o theme para cores 
+
+# Proximos passos
+
+Para o futuro podemos imaginar a implementação de uma API com todos os dados dos alunos, mudanças de desing, sistemas para notificações para os alunos 
+
+
+
+
