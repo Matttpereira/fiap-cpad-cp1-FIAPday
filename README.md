@@ -20,7 +20,7 @@ Requisitos: Expo GO, Node.js e qualquer aplicativo para codar (de preferencia VS
 
 # Decisões Tecnicas
 
-O projeto foi separado em blocos para melhor orgaanização e mais praticidade para possiveis mudanças no futuro, na pagina de login temos a pagina index que é o esqueleto da pagina, no style que é toda a cara da pagina, cores estilo, posição o theme para cores 
+O projeto foi separado em blocos para melhor organização e mais praticidade para possiveis mudanças no futuro, na pagina de login temos a pagina index que é o esqueleto da pagina, no style que é toda a cara da pagina, cores estilo, posição o theme para cores 
 
 # Proximos passos
 
